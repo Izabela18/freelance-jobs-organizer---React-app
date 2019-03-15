@@ -1,5 +1,7 @@
 
-Freelance jobs organizer built in React with add(form), search and sort functions.'Lodash', 'Popper.js' and 'Moment.js' libraries were used as well as Bootrstrap to stylize the app. The app was built based on the LinkedIn's tutorial 'React.js: Building an Interface'. 
+Freelance jobs organizer built in React with add(form), search and sort functions.'Lodash', 'Popper.js' and 'Moment.js' libraries were used as well as Bootrstrap to stylize the app. The app was built based on the LinkedIn's tutorial 'React.js: Building an Interface'.
+
+https://freelance-jobs-organizer.netlify.com/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
