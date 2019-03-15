@@ -1,0 +1,104 @@
+[
+  {
+    "company": "Pepe",
+    "job": "translate leaflet EN-RU",
+    "notes": "technical vocabulary",
+    "deadline": "2018-11-28 13:30"
+  },
+  {
+    "company": "Rios",
+    "job": "online teaching EN",
+    "notes": "young kids",
+    "deadline": "2018-11-27 10:15"
+  },
+  {
+    "company": "Fenix",
+    "job": "in-company technical documentation",
+    "notes": "update translation memory",
+    "deadline": "2018-11-29 14:45"
+  },
+  {
+    "company": "Netflix",
+    "job": "translation transcripts in documentary EN-PL",
+    "notes": "update transcript translation app",
+    "deadline": "2018-12-12 16:00"
+  },
+  {
+    "company": "Google",
+    "job": "in-company marketing documentation",
+    "notes": "use all company terms",
+    "deadline": "2018-12-05 9:00"
+  },
+  {
+    "company": "Zara",
+    "job": "newsletter translation EN-PL",
+    "notes": "ask for project's translation memory",
+    "deadline": "2018-12-09 13:15"
+  },
+  {
+    "company": "Happy Kids",
+    "job": "online teaching EN",
+    "notes": "teenagers advanced level",
+    "deadline": "2018-12-14 10:00"
+  },
+  {
+    "company": "Millies",
+    "job": "conference simultaneous interpreting",
+    "notes": "prepare vocabulary",
+    "deadline": "2018-11-20 11:45"
+  },
+  {
+    "company": "Volvo",
+    "job": "conference simultaneous interpreting",
+    "notes": "prepare vocabulary",
+    "deadline": "2018-12-20 14:30"
+  },
+  {
+    "company": "Felix",
+    "job": "in-comapny English teaching",
+    "notes": "intermediate group",
+    "deadline": "2018-11-13 16:00"
+  },
+  {
+    "company": "Berlitz",
+    "job": "Skype conversation lesson",
+    "notes": "beginner group",
+    "deadline": "2018-12-11 8:30"
+  },
+  {
+    "company": "Persson",
+    "job": "Skype conversation lesson",
+    "notes": "advanced level",
+    "deadline": "2018-11-30 10:15"
+  },
+  {
+    "company": "Ferton",
+    "job": "website translation",
+    "notes": "consult with marketing content specialist",
+    "deadline": "2018-11-11 11:30"
+  },
+  {
+    "company": "Speak better",
+    "job": "online teaching",
+    "notes": "prepare materials",
+    "deadline": "2018-11-01 14:30"
+  },
+  {
+    "company": "Bailey",
+    "job": "technical documentation translation EN-RU",
+    "notes": "together with OCR",
+    "deadline": "2018-12-01 15:45"
+  },
+  {
+    "company": "English wiser",
+    "job": "online teaching EN",
+    "notes": "more conversation",
+    "deadline": "2018-11-09 9:00"
+  },
+  {
+    "company": "Rafinery AB",
+    "job": "technical documentation translation",
+    "notes": "get company's translation memory",
+    "deadline": "2018-12-02 13:00"
+  }
+]
